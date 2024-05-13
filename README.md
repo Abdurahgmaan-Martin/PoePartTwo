@@ -19,3 +19,7 @@ This is a simple console-based recipe manager written in C#. It allows users to 
 6. For each step, enter a description of what the user should do.
 7. Once the recipe is entered, you can perform actions such as scaling, resetting, clearing, or displaying the recipe.
 8. To exit the program, enter 'exit' when prompted for an action.
+
+## Updates
+Added Calorie Tracking: The application now tracks the total calories of a recipe and notifies users when it exceeds 300.
+Enhanced User Interface: Added color highlights to menus and messages for improved readability and user experience
